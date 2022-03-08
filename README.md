@@ -1,29 +1,16 @@
-# Typescript Library Starter
+# Type Trade
 
-![NPM](https://img.shields.io/npm/l/@gjuchault/typescript-library-starter)
-![NPM](https://img.shields.io/npm/v/@gjuchault/typescript-library-starter)
-![GitHub Workflow Status](https://github.com/gjuchault/typescript-library-starter/actions/workflows/typescript-library-starter.yml/badge.svg?branch=main)
+![NPM](https://img.shields.io/npm/l/@mneco/type-tarde)
+![NPM](https://img.shields.io/npm/v/@mneco/type-tarde)
+![GitHub Workflow Status](https://github.com/mneco/type-tarde/actions/workflows/type-tarde.yml/badge.svg?branch=main)
 
-Yet another (opinionated) typescript library starter template.
-
-## Opinions and limitations
-
-1. Relies as much as possible on each included library's defaults
-2. Only rely on GitHub Actions
-3. Do not include documentation generation
+Typescript trading library.
 
 ## Getting started
 
-1. `git clone git@github.com:gjuchault/typescript-library-starter.git my-project`
-2. `cd my-project`
-3. `yarn` or `npm install`
-4. `yarn setup` or `npm run setup`
+TODO: fill it
 
 ## Features
-
-### Node.js, npm and/or yarn version
-
-Typescript Library Starter relies on [volta](https://volta.sh/) to ensure node version to be consistent across developers. It's also used in the GitHub workflow file.
 
 ### Typescript
 
