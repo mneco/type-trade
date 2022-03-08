@@ -1,0 +1,19 @@
+{
+    "version": "0.1",
+    "language": "en",
+    "words": [
+        "esbuild",
+        "rmrf",
+        "TypeTrade",
+        "socio",
+        "octocat"
+    ],
+    "flagWords": [],
+    "ignorePaths": [
+        "package.json",
+        "package-lock.json",
+        "yarn.lock",
+        "tsconfig.json",
+        "node_modules/**"
+    ]
+}
