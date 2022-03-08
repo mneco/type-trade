@@ -16,7 +16,7 @@ jobs:
         steps:
             - uses: actions/checkout@v2
             - uses: volta-cli/action@v1
-            - run: yarn --frozen-lockfile
+            - run: yarn --immutable
 
             - name: Build
               run: yarn build
