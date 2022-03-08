@@ -3559,6 +3559,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"eslint-plugin-no-relative-import-paths@npm:^1.2.0":
+  version: 1.2.0
+  resolution: "eslint-plugin-no-relative-import-paths@npm:1.2.0"
+  checksum: e61c5e397360307b1aac25eac1c70735bece95a98d8b956f665c7fec4342d0513b59f959fdc7c217434038be9973b6e8a15b150274896d5d541e87d8a5db62dc
+  languageName: node
+  linkType: hard
+
 "eslint-plugin-prettier@npm:^4.0.0":
   version: 4.0.0
   resolution: "eslint-plugin-prettier@npm:4.0.0"
@@ -3571,6 +3578,15 @@ __metadata:
     eslint-config-prettier:
       optional: true
   checksum: 03d69177a3c21fa2229c7e427ce604429f0b20ab7f411e2e824912f572a207c7f5a41fd1f0a95b9b8afe121e291c1b1f1dc1d44c7aad4b0837487f9c19f5210d
+  languageName: node
+  linkType: hard
+
+"eslint-plugin-sort-imports-es6-autofix@npm:^0.6.0":
+  version: 0.6.0
+  resolution: "eslint-plugin-sort-imports-es6-autofix@npm:0.6.0"
+  peerDependencies:
+    eslint: ">=7.7.0"
+  checksum: cea8ebb56f88f0834088962a833326702ffdd83c731d4fc2aba1fec7dc9ad445ad4faa69a95d8d16d332a7fe84ad7b7d7fdf846f2c276d88fad19a91a265da63
   languageName: node
   linkType: hard
 
@@ -8399,7 +8415,9 @@ __metadata:
     eslint-config-prettier: ^8.3.0
     eslint-plugin-eslint-comments: ^3.2.0
     eslint-plugin-import: ^2.24.2
+    eslint-plugin-no-relative-import-paths: ^1.2.0
     eslint-plugin-prettier: ^4.0.0
+    eslint-plugin-sort-imports-es6-autofix: ^0.6.0
     nyc: ^15.1.0
     prettier: ^2.4.0
     prettier-plugin-pkg: ^0.11.1
