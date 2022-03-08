@@ -1,8 +1,8 @@
 # Type Trade
 
-![NPM](https://img.shields.io/npm/l/@mneco/type-tarde)
-![NPM](https://img.shields.io/npm/v/@mneco/type-tarde)
-![GitHub Workflow Status](https://github.com/mneco/type-tarde/actions/workflows/type-tarde.yml/badge.svg?branch=main)
+![NPM](https://img.shields.io/npm/l/@mneco/type-trade)
+![NPM](https://img.shields.io/npm/v/@mneco/type-trade)
+![GitHub Workflow Status](https://github.com/mneco/type-trade/actions/workflows/type-trade.yml/badge.svg?branch=main)
 
 Typescript trading library.
 
