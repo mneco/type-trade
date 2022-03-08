@@ -1,5 +1,6 @@
+// eslint-disable-next-line no-relative-import-paths/no-relative-import-paths
+import { bar, foo } from "../index";
 import test from "ava";
-import { foo, bar } from "../index";
 
 test("foo()", t => {
 	t.is(foo(1, 2), 3);

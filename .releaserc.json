@@ -14,7 +14,7 @@
             "prerelease": true
         }
     ],
-    "repositoryUrl": "https://github.com/mneco/TypeTrade.git",
+    "repositoryUrl": "https://github.com/mneco/type-trade.git",
     "plugins": [
         "@semantic-release/commit-analyzer",
         "@semantic-release/release-notes-generator",
